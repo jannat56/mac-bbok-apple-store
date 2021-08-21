@@ -111,3 +111,4 @@ function updateMemoryPrice(isMemory16gb){
      }
      promoInputField.value ="";
    });
+   
